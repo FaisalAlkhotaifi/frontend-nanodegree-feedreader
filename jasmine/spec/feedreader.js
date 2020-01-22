@@ -75,7 +75,7 @@ $(function() {
     })
         
 
-    /* This is the second test suite - This suite is all about 
+    /* This is the third test suite - This suite is all about 
      * the Initial Entries values.
     */
     describe('Initial Entries', function() {
@@ -95,7 +95,7 @@ $(function() {
     })
         
 
-    /* This is the second test suite - This suite is all about 
+    /* This is the fourth test suite - This suite is all about 
      * New Feed Selection 
     */
     describe('New Feed Selection', function() {
